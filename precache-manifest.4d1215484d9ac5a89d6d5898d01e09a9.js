@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3412db5be43f231262af0805819ace6",
+    "revision": "123f435c2eb2646f5387c98a8eb94675",
     "url": "/restaurante/index.html"
   },
   {
-    "revision": "ae690151579ba01c41b6",
+    "revision": "0d2c5ce8f926f85ad93d",
     "url": "/restaurante/static/css/2.b5215549.chunk.css"
   },
   {
-    "revision": "36089bf349f975729a1b",
+    "revision": "4ffe368fe97efa68b09d",
     "url": "/restaurante/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "ae690151579ba01c41b6",
-    "url": "/restaurante/static/js/2.3de6d23a.chunk.js"
+    "revision": "0d2c5ce8f926f85ad93d",
+    "url": "/restaurante/static/js/2.64bf3aec.chunk.js"
   },
   {
-    "revision": "035ad5eb2b54dfbf843d",
-    "url": "/restaurante/static/js/3.760a3ae0.chunk.js"
+    "revision": "20ec4c7a76524148d680",
+    "url": "/restaurante/static/js/3.132715ea.chunk.js"
   },
   {
-    "revision": "36089bf349f975729a1b",
-    "url": "/restaurante/static/js/main.482b79cf.chunk.js"
+    "revision": "4ffe368fe97efa68b09d",
+    "url": "/restaurante/static/js/main.1d87ed27.chunk.js"
   },
   {
-    "revision": "17230e2a4b0b61d09d5f",
-    "url": "/restaurante/static/js/runtime~main.4d52c070.js"
+    "revision": "c3a580f39e05255b30ef",
+    "url": "/restaurante/static/js/runtime~main.e3e26683.js"
   },
   {
     "revision": "0f120c7b4da1972cd7df55676d98f959",
@@ -56,18 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/restaurante/static/media/logos.c41b686d.png"
   },
   {
-    "revision": "27cba022d9a8117a73b3d868eea1136b",
-    "url": "/restaurante/static/media/miercoles.27cba022.jpg"
-  },
-  {
-    "revision": "4c6a0c2b2470f72ddb96e49fb920123d",
-    "url": "/restaurante/static/media/paega.4c6a0c2b.jpg"
-  },
-  {
-    "revision": "67463984abee33ba7026998772edfc19",
-    "url": "/restaurante/static/media/paquete.67463984.jpg"
-  },
-  {
     "revision": "42d8a788393ad890b3bc30a5a2bdfd6a",
     "url": "/restaurante/static/media/poppins-latin-400-normal.42d8a788.woff"
   },
@@ -86,9 +74,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "60401810e53a497b80afa1b2283c56f0",
     "url": "/restaurante/static/media/promo.60401810.png"
-  },
-  {
-    "revision": "ac53f3d6a797f969c26ac0026ddee516",
-    "url": "/restaurante/static/media/promos.ac53f3d6.png"
   }
 ]);
