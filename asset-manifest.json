@@ -1,11 +1,17 @@
 {
   "files": {
     "main.css": "/restaurante/static/css/main.479dbec7.css",
-    "main.js": "/restaurante/static/js/main.2dc569f3.js",
+    "main.js": "/restaurante/static/js/main.f355dbdf.js",
     "static/js/488.5490d9a0.chunk.js": "/restaurante/static/js/488.5490d9a0.chunk.js",
+    "static/media/ressuc3.png": "/restaurante/static/media/ressuc3.2b05da598bea34d85e28.png",
     "static/media/paella.jpg": "/restaurante/static/media/paella.d53677a7a38c75d59cbe.jpg",
     "static/media/promo.png": "/restaurante/static/media/promo.b5c7184aaa62a7bdbd6f.png",
+    "static/media/suc1.png": "/restaurante/static/media/suc1.7be90c7b7889ce7a76ac.png",
     "static/media/promos.png": "/restaurante/static/media/promos.93b731ce0939ad469b91.png",
+    "static/media/ressuc2.jpg": "/restaurante/static/media/ressuc2.e9170aff4c453deb15e1.jpg",
+    "static/media/suc2.png": "/restaurante/static/media/suc2.2727b86ddb4744df43dc.png",
+    "static/media/ressuc1.jpg": "/restaurante/static/media/ressuc1.9d3a014a74bbaaf7c889.jpg",
+    "static/media/instagram.png": "/restaurante/static/media/instagram.a23709f5f6c2f6bed14d.png",
     "static/media/paquetet.jpg": "/restaurante/static/media/paquetet.18107cd8a777026ec25b.jpg",
     "static/media/paega.jpg": "/restaurante/static/media/paega.a0b48eebba85fe15a6cb.jpg",
     "static/media/logos.png": "/restaurante/static/media/logos.e3d8f5ecb48a58a40f31.png",
@@ -24,11 +30,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/restaurante/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
     "index.html": "/restaurante/index.html",
     "main.479dbec7.css.map": "/restaurante/static/css/main.479dbec7.css.map",
-    "main.2dc569f3.js.map": "/restaurante/static/js/main.2dc569f3.js.map",
+    "main.f355dbdf.js.map": "/restaurante/static/js/main.f355dbdf.js.map",
     "488.5490d9a0.chunk.js.map": "/restaurante/static/js/488.5490d9a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.479dbec7.css",
-    "static/js/main.2dc569f3.js"
+    "static/js/main.f355dbdf.js"
   ]
 }
