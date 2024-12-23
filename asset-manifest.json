@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurante/static/css/main.479dbec7.css",
-    "main.js": "/restaurante/static/js/main.c7f56146.js",
+    "main.js": "/restaurante/static/js/main.22b47fb3.js",
     "static/js/488.5490d9a0.chunk.js": "/restaurante/static/js/488.5490d9a0.chunk.js",
     "static/media/ressuc3.png": "/restaurante/static/media/ressuc3.2b05da598bea34d85e28.png",
     "static/media/paella.jpg": "/restaurante/static/media/paella.d53677a7a38c75d59cbe.jpg",
@@ -34,11 +34,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/restaurante/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
     "index.html": "/restaurante/index.html",
     "main.479dbec7.css.map": "/restaurante/static/css/main.479dbec7.css.map",
-    "main.c7f56146.js.map": "/restaurante/static/js/main.c7f56146.js.map",
+    "main.22b47fb3.js.map": "/restaurante/static/js/main.22b47fb3.js.map",
     "488.5490d9a0.chunk.js.map": "/restaurante/static/js/488.5490d9a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.479dbec7.css",
-    "static/js/main.c7f56146.js"
+    "static/js/main.22b47fb3.js"
   ]
 }
