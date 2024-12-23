@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurante/static/css/main.479dbec7.css",
-    "main.js": "/restaurante/static/js/main.95d1aa55.js",
+    "main.js": "/restaurante/static/js/main.c7f56146.js",
     "static/js/488.5490d9a0.chunk.js": "/restaurante/static/js/488.5490d9a0.chunk.js",
     "static/media/ressuc3.png": "/restaurante/static/media/ressuc3.2b05da598bea34d85e28.png",
     "static/media/paella.jpg": "/restaurante/static/media/paella.d53677a7a38c75d59cbe.jpg",
@@ -15,13 +15,17 @@
     "static/media/paquetet.jpg": "/restaurante/static/media/paquetet.18107cd8a777026ec25b.jpg",
     "static/media/paega.jpg": "/restaurante/static/media/paega.a0b48eebba85fe15a6cb.jpg",
     "static/media/logos.png": "/restaurante/static/media/logos.e3d8f5ecb48a58a40f31.png",
-    "static/media/logo.png": "/restaurante/static/media/logo.2e58d10c3938b6c308ec.png",
     "static/media/miercoles.jpg": "/restaurante/static/media/miercoles.b412fb799a6ee4301330.jpg",
+    "static/media/paellaa.jpg": "/restaurante/static/media/paellaa.f3822dfeb447075a0a7a.jpg",
     "static/media/orden.jpg": "/restaurante/static/media/orden.3d719d3af90624526905.jpg",
     "static/media/changa-arabic-400-normal.woff": "/restaurante/static/media/changa-arabic-400-normal.04b362315113f3296768.woff",
     "static/media/changa-latin-400-normal.woff": "/restaurante/static/media/changa-latin-400-normal.07f7ca174cc2dc3551e5.woff",
+    "static/media/huevos.jpg": "/restaurante/static/media/huevos.ec46433902ad1ab1e981.jpg",
+    "static/media/panuchos.jpg": "/restaurante/static/media/panuchos.a60a416cbf4fb41cce16.jpg",
     "static/media/changa-arabic-400-normal.woff2": "/restaurante/static/media/changa-arabic-400-normal.ec6c5db3aa7dfdc8bc1b.woff2",
     "static/media/poppins-latin-400-normal.woff": "/restaurante/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/marquesitas.jpg": "/restaurante/static/media/marquesitas.e6ee1c147ecae0daec68.jpg",
+    "static/media/horchata.jpg": "/restaurante/static/media/horchata.56b9455f3dd3298668b6.jpg",
     "static/media/changa-latin-400-normal.woff2": "/restaurante/static/media/changa-latin-400-normal.2c5afa2ce134841504fb.woff2",
     "static/media/changa-latin-ext-400-normal.woff": "/restaurante/static/media/changa-latin-ext-400-normal.c2878b02506a3b130b89.woff",
     "static/media/poppins-latin-400-normal.woff2": "/restaurante/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
@@ -30,11 +34,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/restaurante/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
     "index.html": "/restaurante/index.html",
     "main.479dbec7.css.map": "/restaurante/static/css/main.479dbec7.css.map",
-    "main.95d1aa55.js.map": "/restaurante/static/js/main.95d1aa55.js.map",
+    "main.c7f56146.js.map": "/restaurante/static/js/main.c7f56146.js.map",
     "488.5490d9a0.chunk.js.map": "/restaurante/static/js/488.5490d9a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.479dbec7.css",
-    "static/js/main.95d1aa55.js"
+    "static/js/main.c7f56146.js"
   ]
 }
